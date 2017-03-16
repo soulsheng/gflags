@@ -17,3 +17,12 @@ CMakeFiles/
 /test/gflags_unittest-main.cc
 /packages/
 CMakeLists.txt.user
+/bin
+/build12/Debug
+/build12/*.dir
+
+/build12/Win32
+/build12/lib
+/build12/*.cmake
+/build12/*.sdf
+/build12/*.suo
